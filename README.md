@@ -18,3 +18,4 @@ window.onload = function() {
 }
 </script>
 ~~~
+[![](https://data.jsdelivr.com/v1/package/gh/kaygb/JS-effects/badge)](https://www.jsdelivr.com/package/gh/kaygb/JS-effects)
