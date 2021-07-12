@@ -4,7 +4,7 @@
 https://cdn.jsdelivr.net/gh/kaygb/blog-images/fireworks.js
 ### 同步加载
 ~~~html
-<script src="//cdn.jsdelivr.net/gh/kaygb/JS-effects/fireworks.js"></script>
+<script src="//cdn.jsdelivr.net/gh/gchengyu/JS-effects/fireworks.js"></script>
 ~~~
 ### JS监听加载（测试）
 ~~~html
@@ -12,10 +12,10 @@ https://cdn.jsdelivr.net/gh/kaygb/blog-images/fireworks.js
 window.onload = function() {
         setTimeout(function() {
                 let script = document.createElement("script");
-                script.src = "//cdn.jsdelivr.net/gh/kaygb/JS-effects/fireworks.js";
+                script.src = "//cdn.jsdelivr.net/gh/gchengyu/JS-effects/fireworks.js";
                 document.body.appendChild(script);
         }, 2e3);
 }
 </script>
 ~~~
-[![](https://data.jsdelivr.com/v1/package/gh/kaygb/JS-effects/badge)](https://www.jsdelivr.com/package/gh/kaygb/JS-effects)
+[![](https://data.jsdelivr.com/v1/package/gh/gchengyu/JS-effects/badge)](https://www.jsdelivr.com/package/gh/gchengyu/JS-effects)
